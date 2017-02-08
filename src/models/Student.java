@@ -13,6 +13,7 @@ package models;
 public class Student {
     private String rollNo;
     private String name;
+    private int phone;
    
     public String getRollNo() {
         return rollNo;
@@ -29,4 +30,6 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+
+
 }
