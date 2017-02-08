@@ -13,7 +13,7 @@ package models;
 public class Student {
     private String rollNo;
     private String name;
-    private String phone;
+    private int phone;
    
     public String getRollNo() {
         return rollNo;
