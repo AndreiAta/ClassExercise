@@ -13,9 +13,6 @@ package models;
 public class Student {
     private String rollNo;
     private String name;
-    private int phone;
-    private String age;
-    private int age;
    
     public String getRollNo() {
         return rollNo;
