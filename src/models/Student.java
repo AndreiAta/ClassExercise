@@ -14,7 +14,7 @@ public class Student {
     private String rollNo;
     private String name;
     private int phone;
-    private int age;
+    private Double age;
    
     public String getRollNo() {
         return rollNo;
